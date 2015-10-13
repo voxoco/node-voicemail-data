@@ -18,13 +18,14 @@
   },
   "homepage": "https://github.com/asterisk/node-voicemail-data",
   "dependencies": {
-    "sql": "^0.39.0",
-    "q": "^1.0.1",
-    "pg": "^3.4.2",
-    "compose": "^0.1.2",
     "case": "^1.0.3",
-    "sqlite3": "^2.2.7",
-    "moment": "^2.8.3"
+    "compose": "^0.1.2",
+    "moment": "^2.8.3",
+    "mysql": "^2.9.0",
+    "pg": "^3.4.2",
+    "q": "^1.0.1",
+    "sql": "^0.39.0",
+    "sqlite3": "^2.2.7"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
